@@ -1,2 +1,2 @@
 # tictactoe
-use 'cargo run' to play the game 
+use `cargo run` to play the game 
